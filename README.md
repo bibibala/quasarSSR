@@ -1,6 +1,4 @@
-# Quasar App (quasar-project)
-
-A Quasar Project
+# quasar SSR
 
 ## Install the dependencies
 ```bash
@@ -20,3 +18,11 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+
+# step
+
+- quasar build -mode ssr
+- cd server 
+- pnpm i
+- done
+- default watch(port 3000)
